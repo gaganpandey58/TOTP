@@ -22,10 +22,10 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git@github.com:wstrange/GoogleAuth.git</connection>
-        <developerConnection>scm:git:git@github.com:wstrange/GoogleAuth.git
+        <connection>scm:git:git@github.com:gaganpandey58/TOTP.git</connection>
+        <developerConnection>scm:git:git@github.com:gaganpandey58/TOTP.git
         </developerConnection>
-        <url>git@github.com:wstrange/GoogleAuth.git</url>
+        <url>git@github.com:gaganpandey58/TOTP.git</url>
     </scm>
 
     <distributionManagement>
